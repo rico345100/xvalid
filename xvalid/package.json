@@ -1,0 +1,12 @@
+{
+  "name": "xvalid",
+  "version": "1.1.1",
+  "description": "xvalid is light weight, pure javascript validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
